@@ -5,7 +5,7 @@
 This is my **secondary GitHub account** dedicated to **learning, practice, and experimentation**.  
 Here, I explore new technologies, work on tutorial projects, and build clones of what I learn — all in a safe “hackyard” environment.
 
-> ⚠️ **Note:** This is *not my main account*. For my main projects, visit: [Your Main GitHub Account Here](PUT-YOUR-MAIN-GITHUB-LINK)
+> ⚠️ **Note:** This is *not my main account*. For my main projects, visit: [Manmohit-Singh-24](https://github.com/Manmohit-Singh24)  
 
 ---
 
