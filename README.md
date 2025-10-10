@@ -3,41 +3,32 @@
 </p>
 
 <h1 align="center">👋 Welcome to <strong>Manmohit’s Hackyards</strong></h1>
+
 <p align="center"><em style="color:gray;">“Where code gets messy, tutorials get cloned, and ideas get tested 🧠💥”</em></p>
 
-This is my **secondary GitHub account** dedicated to **learning, practice, and experimentation**.  
-Here, I explore new technologies, work on tutorial projects, and build clones of what I learn — all in a safe “hackyard” environment.
+This is my **secondary GitHub account** for **learning, practice, and experimentation**.  
+> **Hackyards?** A developer's backyard :)  
 
-> ⚠️ **Note:** This is *not my main account*. For my main projects, visit: [Manmohit-Singh-24](https://github.com/Manmohit-Singh24)  
+Here, I **experiment**, **break things**, and **rebuild projects** while working through tutorials.  
+It’s my safe space to get messy and learn new skills without worrying about perfection.
 
----
-
-## 🧪 Why “Hackyards”?
-
-The name **Hackyards** reflects a **developer’s backyard workshop** — a place where I can:
-
-- 🔧 Experiment freely without worrying about perfection  
-- 🔍 Break and rebuild projects to **understand them better**  
-- 📚 Practice by cloning tutorials, courses, and guides  
-
-In short, it’s a **space for learning, testing, and improving skills** — a true “developer playground.”
+> ⚠️ Note: This is not my main account. Main projects: [Manmohit-Singh-24](https://github.com/Manmohit-Singh24)
 
 ---
 
-## 💻 What you’ll find here
+## 💻 What you'll find here
 
-- 📖 **Tutorial-based projects & clones** — reproducing what I learn from videos, courses, and guides  
-- 🏋️ **Practice exercises** — small programs to reinforce concepts  
-- ⚡ **Experimental code** — testing new frameworks, tools, or ideas  
-- 🧠 **Learning-focused experiments** — mistakes are part of the process  
+All projects focus on the **process of learning**:
 
-> All projects here are part of my **learning journey**. They might not be production-ready but reflect **hands-on practice and growth**.
+* 📖 **Tutorial clones & practice projects**  
+* ⚡ **Experimental code & messy exercises**  
+* 🧠 **Learning-focused experiments** — mistakes encouraged!
+
+> Projects reflect **hands-on practice and growth**, not production-ready apps.
 
 ---
 
 ## 📌 Connect
 
-- Main account: [Manmohit-Singh-24](https://github.com/Manmohit-Singh24)  
-- Secondary account (this): [Manmohit24-hackyards](https://github.com/Manmohit24-hackyards)
-
----
+* Main Account: [Manmohit-Singh-24](https://github.com/Manmohit-Singh24)  
+* This Account: [Manmohit24-hackyards](https://github.com/Manmohit24-hackyards)
