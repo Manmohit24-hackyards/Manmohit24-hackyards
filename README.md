@@ -7,8 +7,8 @@
 <p align="center"><em style="color:gray;">“Where code gets messy, tutorials get cloned, and ideas get tested 🧠💥”</em></p>
 
 This is my **secondary GitHub account** for **learning, practice, and experimentation**.  
-> **Hackyards?** A developer's backyard :)  
 
+***Hackyards? A developer's backyard :)***  
 Here, I **experiment**, **break things**, and **rebuild projects** while working through tutorials.  
 It’s my safe space to get messy and learn new skills without worrying about perfection.
 
