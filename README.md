@@ -7,12 +7,12 @@
 <p align="center"><em style="color:gray;">“Where code gets messy, tutorials get cloned, and ideas get tested 🧠💥”</em></p>
 
 This is my **secondary GitHub account** for **learning, practice, and experimentation**.  
+> ⚠️ Note: This is not my main account. Main projects: [Manmohit-Singh-24](https://github.com/Manmohit-Singh24)
 
 ***Hackyards? A developer's backyard :)***  
+
 Here, I **experiment**, **break things**, and **rebuild projects** while working through tutorials.  
 It’s my safe space to get messy and learn new skills without worrying about perfection.
-
-> ⚠️ Note: This is not my main account. Main projects: [Manmohit-Singh-24](https://github.com/Manmohit-Singh24)
 
 ---
 
@@ -22,10 +22,7 @@ All projects focus on the **process of learning**:
 
 * 📖 **Tutorial clones & practice projects**  
 * ⚡ **Experimental code & messy exercises**  
-* 🧠 **Learning-focused experiments** — mistakes encouraged!
-
-> Projects reflect **hands-on practice and growth**, not production-ready apps.
-
+* 🧠 **Learning-focused experiments**
 ---
 
 ## 📌 Connect
