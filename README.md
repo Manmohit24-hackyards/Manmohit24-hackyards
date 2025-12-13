@@ -1,8 +1,6 @@
-}
-
 # Hackyards
 
-**Hackyards** is a GitHub organization maintained by **Manmohit Singh** for
+**Hackyards** is a GitHub organization maintained by [Manmohit Singh](https://github.com/manmohit-24) for
 **learning-driven projects, experiments, and tutorial-based implementations**.
 
 This organization is intentionally separate from the main account and is used as a
